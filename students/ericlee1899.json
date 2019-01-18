@@ -1,0 +1,14 @@
+{
+  "firstName": "Eric",
+  "lastName": "Lee",
+  "nickName": "",
+  "privateName": false,
+  "picture": "ericlee1899.jpg",
+  "privatePicture": true,
+  "email": "canucks.lee@mail.utoronto.ca",
+  "privateEmail": false,
+  "github": "ericlee1899",
+  "privateGithub": false,
+  "superpower" : "Playing tennis",
+  "academicinterests": "No interests"
+}
